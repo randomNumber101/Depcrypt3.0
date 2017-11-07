@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RoboterWelt()
+comment1.params=
+comment1.target=void\ prepare()
+comment2.params=code
+comment2.target=void\ startEncoding(java.lang.String)
+comment3.params=c
+comment3.target=int\ encode(char)
+comment4.params=integer\ spot
+comment4.target=boolean\ getBit(int,\ int)
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=bitarray
+comment0.target=SyrerRoboter(boolean[])
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ dropBomb()
+comment3.params=bitarray
+comment3.target=void\ setBitArray(boolean[])
+numComments=4

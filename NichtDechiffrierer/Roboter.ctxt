@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Roboter()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ dreheRechts()
+comment2.text=\r\n\ Der\ Roboter\ dreht\ sich\ um\ 90\ Grad\ nach\ rechts\ (aus\ der\ Sicht\ des\ Roboters).\r\n
+comment3.params=
+comment3.target=void\ dreheLinks()
+comment3.text=\r\n\ Der\ Roboter\ dreht\ sich\ um\ 90\ Grad\ nach\ links\ (aus\ der\ Sicht\ des\ Roboters).\r\n
+comment4.params=
+comment4.target=boolean\ rechts()
+comment4.text=\r\n\ Der\ Sensor\ ueberprueft,\ ob\ der\ Roboter\ nach\ rechts\ blickt.\r\n
+comment5.params=
+comment5.target=boolean\ links()
+comment6.params=
+comment6.target=boolean\ oben()
+comment7.params=
+comment7.target=boolean\ unten()
+comment8.params=
+comment8.target=boolean\ anGrenze()
+comment8.text=\r\n\ Der\ Sensor\ ueberprueft,\ ob\ sich\ der\ Roboter\ an\ der\ Weltgrenze\ befindet\ und\ zur\ Grenze\ "blickt".\r\n
+numComments=9
