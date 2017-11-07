@@ -1,5 +1,5 @@
 import greenfoot.*;
-
+import java.util.*;
 /**
  * Write a description of class Haus_klein here.
  * 
@@ -14,6 +14,9 @@ public class Haus_klein extends Actor
      */
     public void act() 
     {
-        // Add your action code here.
+        Random random = new Random();
+        if(Math.random()>0.7f){
+            setLocation(random.nextInt(8),random.nextInt(11));
+        }
     }    
 }

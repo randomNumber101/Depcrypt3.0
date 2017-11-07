@@ -4,71 +4,31 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 /**
+ *                
+ ________________$$$$$
+ ______________$$____$$
+ ______________$$____$$
+ ______________$$____$$
+ ______________$$____$$
+ ______________$$____$$
+ __________$$$$$$____$$$$$$
+ ________$$____$$____$$____$$$$
+ ________$$____$$____$$____$$__$$
+ $$$$$$__$$____$$____$$____$$____$$
+ $$____$$$$________________$$____$$
+ $$______$$______________________$$
+ __$$____$$______________________$$
+ ___$$$__$$______________________$$
+ ____$$__________________________$$
+ _____$$$________________________$$
+ ______$$______________________$$$
+ _______$$$____________________$$
+ ________$$____________________$$
+ _________$$$________________$$$
+ __________$$________________$$
+ __________$$$$$$$$$$$$$$$$$$$$
  *   
- *   ___________________§§§§§§
-_____________§§§§__§§__§§_§§§§§§
-_____§§__§§_§§__§§_§§§§§§_§§__§§_§§____§§
-_____§§__§§_§§§§§§_§§_____§§§§§§__§§__§§
-_____§§§§§§_§§__§§_§§_____§§_______§§§§
-_____§§__§§_§§__§§________§§________§§
-_____§§__§§_________________________§§
-
-_______§§§§§§___§§__§§§§§__§§§§§§_§§__§§
-_______§§___§§__§§__§§__§§___§§___§§__§§
-_______§§§§§§___§§__§§§§§____§§___§§§§§§
-_______§§___§§__§§__§§_§§____§§___§§__§§
-_______§§§§§§___§§__§§__§§___§§___§§__§§
-
-__________§§§§§§§__________§§____§§
-___________§§___§§___§§§§§__§§__§§
-___________§§___§§__§§___§§__§§§§
-___________§§___§§__§§§§§§§___§§
-__________§§§§§§§___§§___§§___§§
-____________________§§___§§
-________________¶¶
-_______________¶¶¶¶_______________¶¶
-______________¶¶S¶¶______¶¶_____¶¶¶¶
-_____________¶¶SS¶_____¶¶¶¶____¶¶SS¶
-_____________¶¶S¶¶____¶¶SS¶___¶¶SS¶¶
-______________¶¶______¶SS¶_____¶SS¶
-_____________¶¶¶¶¶_____¶¶_______¶¶
-_____________¶__¶¶____¶¶¶¶¶____¶¶¶¶¶
-_____________¶__¶¶____¶__¶¶____¶__¶¶
-_____________¶__¶_____¶__¶¶____¶__¶¶
-_____________¶__¶_____¶__¶¶____¶__¶
-_____________¶__¶_____¶__¶_____¶__¶
-___________¶¶¶__¶¶¶¶¶¶¶__¶¶¶¶¶¶¶__¶
-________¶¶¶¶¶¶__¶11111¶__¶11111¶__¶¶¶¶
-______¶¶¶1111¶__¶11111¶__¶11111¶__¶11¶¶¶¶
-_____¶¶111$11¶¶¶¶11111¶__¶11111¶¶¶¶11$11¶¶¶
-____¶¶111$$$$11111$111¶¶¶¶11$1111111$$$$11¶¶
-____¶¶¶¶111$11111$$$$111111$$$$1111111$11¶¶¶
-____¶__¶¶¶¶¶¶¶¶1111$111111111$1111111¶¶¶¶¶_¶
-___¶¶______¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶____¶¶¶
-_¶¶¶¶_____§§________________________§§__¶¶11¶¶
-¶¶11¶¶__§§_§§___§§_____§§____§§___§§_§§_¶¶111¶
-¶111¶¶¶___§§___§§_§§__§§_§§_§§_§§___§§_¶¶¶111¶
-¶1111¶¶¶¶________§§_____§§____§§_____¶¶¶¶111¶¶
-¶¶¶¶111¶¶¶¶¶¶¶¶¶¶¶________¶¶¶¶¶¶¶¶¶¶¶¶¶¶11¶¶¶¶
-__¶¶¶¶¶11111111¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶11111111¶¶¶
-____¶¶¶11111111111111111111111111111111111¶¶
-_____¶¶¶¶111¶¶¶¶11111111¶¶11111111¶¶¶¶1111¶¶
-______¶¶¶¶¶¶¶¶¶¶¶111¶¶¶¶¶¶¶1111¶¶¶_¶¶¶¶¶¶¶
-_______________¶¶¶¶¶¶¶¶___¶¶¶¶¶¶¶¶
- *          
- *          
- *         (Huchala und eujeujeu! Wo ist denn die dechiffrier Methode hin?)
- *         
- *                              ¯\_(?)_/¯     
- *   
- *   
- *   
- *          (Du kannst uns doch sicherlich helfen!)
- *           (Rette die Welt!                      
- *      
- *              (?°?°)?
- *                            
- *   
+ *   Alle Beweise vernichtet! MUHAHAHHAHAHA
  */
 
 public class RoboterWelt extends World
@@ -97,19 +57,20 @@ public class RoboterWelt extends World
    
     private void prepare()
     {
-                           
-        showText("Um zu chiffrieren,  \n den Text in den Input schreiben, \n  auf chiffrieren drücken und  \n die Simulation mit  \" run \" starten! ",3,4);
+
         for(int i = 0;i< numbers.length;i++){
             showText(""+ numbers[i],i,10);
         }
-        showText("Zahl: "+result,3,7);
-        
+        showText("Zahl: over 9000",3,7);
+
+        showText("Hier hat wohl jemand  \n sein Unwesen getrieben!", 4,5);
+
         //Welt bauen:
         Goal goal = new Goal();
         addObject(goal, 10, 0);
         Spawn spawn = new Spawn();
         addObject(spawn, 0, 0);
-        
+
         Haus_klein haus_klein = new Haus_klein();
         addObject(haus_klein, 0, 10);
         Haus_klein haus_klein2 = new Haus_klein();
@@ -126,6 +87,64 @@ public class RoboterWelt extends World
         addObject(haus4, 7, 10);
         Leuchtturm leuchtturm = new Leuchtturm();
         addObject(leuchtturm, 6, 10);
+        rakete rakete = new rakete();
+        addObject(rakete, 0, 5);
+        rakete.setLocation(0, 3);
+        rakete rakete2 = new rakete();
+        addObject(rakete2, 6, 2);
+        Leuchtturm leuchtturm2 = new Leuchtturm(false);
+        addObject(leuchtturm2, 2, 10);
+        Leuchtturm leuchtturm3 = new Leuchtturm();
+        addObject(leuchtturm3, 2, 9);
+        spawn.setLocation(0, 0);
+        Spawn spawn2 = new Spawn();
+        addObject(spawn2, 7, 1);
+        Goal goal2 = new Goal();
+        addObject(goal2, 0, 1);
+        Spawn spawn3 = new Spawn();
+        addObject(spawn3, 0, 2);
+        Spawn spawn4 = new Spawn();
+        addObject(spawn4, 0, 4);
+        Spawn spawn5 = new Spawn();
+        addObject(spawn5, 0, 6);
+        Spawn spawn6 = new Spawn();
+        addObject(spawn6, 0, 8);
+        Spawn spawn7 = new Spawn();
+        addObject(spawn7, 7, 7);
+        Spawn spawn8 = new Spawn();
+        addObject(spawn8, 7, 5);
+        Spawn spawn9 = new Spawn();
+        addObject(spawn9, 7, 3);
+        Goal goal3 = new Goal();
+        addObject(goal3, 7, 2);
+        Goal goal4 = new Goal();
+        addObject(goal4, 7, 4);
+        Goal goal5 = new Goal();
+        addObject(goal5, 7, 6);
+        Goal goal6 = new Goal();
+        addObject(goal6, 7, 8);
+        Goal goal7 = new Goal();
+        addObject(goal7, 0, 7);
+        Goal goal8 = new Goal();
+        addObject(goal8, 0, 5);
+        removeObject(spawn6);
+        goal7.act();
+        removeObject(goal7);
+        removeObject(spawn5);
+        removeObject(goal8);
+        removeObject(spawn4);
+        removeObject(spawn3);
+        removeObject(goal6);
+        removeObject(spawn7);
+        removeObject(goal5);
+        removeObject(spawn8);
+        removeObject(goal4);
+        removeObject(spawn9);
+        removeObject(goal3);
+        removeObject(spawn2);
+        removeObject(goal);
+        removeObject(goal2);
+        removeObject(spawn);
     }
     
     //wird vom JFrame aufgerufen
@@ -159,7 +178,7 @@ public class RoboterWelt extends World
        while(syri.getX()<7){
            try{
                t.wait();
-               showText("Zahl: "+result,3,7);
+               showText("Zahl: over 9000",3,7);
                System.out.println("Not ready");}
            catch(Exception e){}
         }
@@ -181,7 +200,7 @@ public class RoboterWelt extends World
             String output = "";         
             for(int i = 0; i<elements.length;i++){
                 result = encode(elements[i]);
-                RoboterWelt.instance.showText("Ergebnis: "+RoboterWelt.instance.result,3,7);
+                RoboterWelt.instance.showText("Ergebnis: over 9000",3,7);
                 if(i==0)
                     output = ""+result;
                 else
